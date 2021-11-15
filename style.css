@@ -18,5 +18,29 @@
     color: white;
 }
 #navebar li{
-    float: inline-end;
+    display: inline-flex;
+}
+
+.english {
+    width: 100%;
+    background-color: rgb(3, 3, 46);
+    color: white;
+}
+
+.hindi {
+    width: 90%;
+    background-color: rgb(3, 3, 46);
+    color: white;
+}
+
+.web{
+    width: 75%;
+    background-color: rgb(3, 3, 46);
+    color: white;
+}
+
+.aptitude {
+    width: 65%;
+    background-color: rgb(3, 3, 46);
+    color: white;
 }
